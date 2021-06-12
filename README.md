@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JTOfficial
+- 👀 I’m interested in media and design 
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me - Email: inquiries.jt@workmail.com
